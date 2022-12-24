@@ -18,11 +18,11 @@ function Header() {
             </div>
         </div>
 
-        <div style={{ display: 'flex', margin:'0 10px'}}>
-          <BiVideoPlus style={{ width: '25px', height: '25px'}}/>
-          <BsBell style={{ width: '25px', height: '25px', padding: '0 10px'}}/>
+        <div style={{ display: 'flex', margin:'0 10px', padding: '0 5px'}}>
+          <BiVideoPlus style={{ width: '25px', height: '25px', padding: '0 5px'}}/>
+          <BsBell style={{ width: '25px', height: '25px', padding: '0 5px'}}/>
           
-          <CgProfile style={{ width: '25px', height: '25px'}}/>
+          <CgProfile style={{ width: '25px', height: '25px', padding: '0 5px'}}/>
         </div>
     </header>
   )
