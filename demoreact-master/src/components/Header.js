@@ -18,7 +18,7 @@ function Header() {
             </div>
         </div>
 
-        <div style={{ display: 'flex', margin:'0 auto'}}>
+        <div style={{ display: 'flex', margin:'0 10px'}}>
           <BiVideoPlus style={{ width: '25px', height: '25px'}}/>
           <BsBell style={{ width: '25px', height: '25px', padding: '0 10px'}}/>
           
